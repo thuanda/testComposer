@@ -1,8 +1,7 @@
 <?php
-
 namespace Sayloveuu;
 
-class Saylove
+class SayLove
 {
     public static function love()
      {
